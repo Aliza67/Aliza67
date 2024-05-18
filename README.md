@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aliza67
-- 👀 I’m interested in developing a great carreer in Computer Science
+- 👀 I’m interested in further developing my carreer as a Software Engineer
 - 🌱 I’m currently learning some ML applied to Biology
 - 💞️ I’m looking to collaborate on any challenging project you can offer me in that field!
 - 📫 Please reach out to me here on GitHub, 
